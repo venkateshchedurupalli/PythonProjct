@@ -8,7 +8,7 @@ print (a)
 
 #print Variable as integer convert from define format he a=12 is integer hence will
 print (int(a))
-#output would be
+#output would be changed
 #12
 
 #print variable as float value from integer as denine
