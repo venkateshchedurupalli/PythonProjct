@@ -21,6 +21,7 @@ pipeline {
            
             steps {
                 echo 'Hello world!' 
+                sh 'java -version'
             }
         
            // steps {
