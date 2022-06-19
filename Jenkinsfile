@@ -22,6 +22,7 @@ pipeline {
             steps {
                 echo 'Hello world!' 
                 sh 'java -version'
+                echo "Test"
             }
         
            // steps {
